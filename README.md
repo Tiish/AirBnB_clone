@@ -68,4 +68,4 @@ help [command]
 
 Show help information of command. If command is not specified, display all documented commands. AUTHOR
 
-Nadduli Daniel naddulidaniel1994@gmail.com Ashley John
+Tiish
