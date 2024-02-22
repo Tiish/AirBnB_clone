@@ -1,14 +1,15 @@
 #!/usr/bin/python3
 """Defines the City class."""
+
+
 from models.base_model import BaseModel
 
 
 class City(BaseModel):
-    """Represent a city.
+    """City class for AirBnB project
 
-    Attributes:
-        state_id (str): The state id.
-        name (str): The name of the city.
+    state_id - empty string: it will be the State.id
+    name - empty string
     """
 
     state_id = ""
